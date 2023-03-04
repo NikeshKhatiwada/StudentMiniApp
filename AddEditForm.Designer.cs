@@ -390,6 +390,7 @@
             this.signatureBox.Location = new System.Drawing.Point(426, 68);
             this.signatureBox.Name = "signatureBox";
             this.signatureBox.Size = new System.Drawing.Size(300, 300);
+            this.signatureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.signatureBox.TabIndex = 1;
             this.signatureBox.TabStop = false;
             // 
@@ -398,6 +399,7 @@
             this.studentPhotoBox.Location = new System.Drawing.Point(16, 68);
             this.studentPhotoBox.Name = "studentPhotoBox";
             this.studentPhotoBox.Size = new System.Drawing.Size(350, 350);
+            this.studentPhotoBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.studentPhotoBox.TabIndex = 0;
             this.studentPhotoBox.TabStop = false;
             // 
